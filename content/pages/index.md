@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: website for Conversion and Scalability
+    title: Website for Conversion and Scalability
     text: >
       Fastvert's React-based headless web development gives you everything you
       need to build faster, scalable and secure websites personalized and
