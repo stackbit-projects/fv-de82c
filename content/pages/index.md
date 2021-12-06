@@ -21,7 +21,6 @@ sections:
         iconPosition: left
     media:
       type: ImageBlock
-      url: /images/FINAL 1 1.jpg
       altText: Image alt text
       caption: Image caption
     styles:
