@@ -2,56 +2,6 @@
 title: Home
 layout: PageLayout
 sections:
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-a
-    title: Website for Conversion and Scalability
-    text: >
-      Fastvert's React-based headless web development gives you everything you
-      need to build faster, scalable and secure websites personalized and
-      optimized for modern business.
-    actions:
-      - type: Button
-        label: Get a quote
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
-        showIcon: false
-        icon: arrowLeft
-        iconPosition: left
-    media:
-      type: ImageBlock
-      altText: Image alt text
-      caption: Image caption
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-11
-          - ml-0
-          - mr-0
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - colors: colors-h
     elementId: ''
     images:
