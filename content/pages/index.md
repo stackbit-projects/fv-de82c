@@ -7,9 +7,9 @@ sections:
     colors: colors-a
     title: website for Conversion and Scalability
     text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      Fastvert's React-based headless web development gives you everything you
+      need to build faster, scalable and secure websites personalized and
+      optimized for modern business.
     actions:
       - type: Button
         label: Sign up
