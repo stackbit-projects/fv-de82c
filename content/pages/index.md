@@ -17,7 +17,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/FINAL 1 1.jpg
+      url: /images/banner.jpg
       altText: Hero image
     backgroundImage: null
     styles:
