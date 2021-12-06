@@ -12,7 +12,7 @@ sections:
       optimized for modern business.
     actions:
       - type: Button
-        label: Sign up
+        label: Get a quote
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
