@@ -36,7 +36,7 @@ sections:
           - pr-4
         alignItems: flex-end
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderColor: border-secondary
       title:
         textAlign: left
