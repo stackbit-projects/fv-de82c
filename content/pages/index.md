@@ -14,7 +14,7 @@ sections:
       - type: Button
         label: Get a quote
         url: 'https://www.stackbit.com/'
-        style: primary
+        style: secondary
         elementId: hero-main-button
         showIcon: false
         icon: arrowLeft
