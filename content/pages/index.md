@@ -37,7 +37,7 @@ sections:
         alignItems: flex-end
         justifyContent: center
         flexDirection: row
-        borderColor: border-primary
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
